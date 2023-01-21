@@ -32,8 +32,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Habits é um app para ajudar a rastrear os hábitos.
 
-- [Acesse o projeto finalizado, online.](https://kauatiezzi.github.io/nlw-setup-habits/)
+- [Acesse o projeto finalizado, online.](https://kauatiezzi.github.io/portolio/)
 
 ---
 
-Feito com ♥ by Kauã Tiezzi [Entre em contato aqui.](https://discord.gg/aaaa)
+Feito com ♥ by Kauã Tiezzi [Entre em contato comigo clicando aqui.](https://discord.gg/aaaa)
