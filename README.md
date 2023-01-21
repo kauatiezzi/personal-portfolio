@@ -30,7 +30,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O Habits é um app para ajudar a rastrear os hábitos.
+O desafio de criação do meu portfólio foi promovido pela RocketSeat, desenvolvi ele de uma forma mais elegante do que o figma inicial, que me agradou demais no resultado final.
 
 - [Acesse o projeto finalizado, online.](https://kauatiezzi.github.io/portolio/)
 
